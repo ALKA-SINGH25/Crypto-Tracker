@@ -9,6 +9,12 @@ Welcome to the Crypto Tracker Project! This is a web application designed to hel
 - Search Functionality: Search for specific cryptocurrencies and view their detailed data.
 - Responsive Design: The application is designed to work on both desktop and mobile devices.
 
+## Images
+<img width="1680" alt="Screenshot 2025-04-01 at 7 15 58 PM" src="https://github.com/user-attachments/assets/4d363178-f658-49ff-92f7-ae592f63c85d" />
+<img width="1680" alt="Screenshot 2025-04-01 at 7 16 10 PM" src="https://github.com/user-attachments/assets/7ec2d61d-6c2a-430a-b0a7-617855590c43" />
+
+
+
 ## Technologies Used
 
 - HTML: Markup language for structuring the web application.
